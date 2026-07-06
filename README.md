@@ -58,7 +58,7 @@ The dataset includes:
 The dashboard uses a Star Schema with the **Employees** table as the central table connected to related HR tables using one-to-many relationships.
 
 ## 📷 Dashboard Preview
-Dashboard(https://github.com/nagendra232005/hr_analytics/blob/main/hr%20analytics.png)
+![Dashboard](output.png)
 
 ## 🚀 Outcomes
 - Improved HR decision-making through interactive reports.
